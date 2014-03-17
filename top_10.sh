@@ -1,1 +1,1 @@
-grep Quesiton Analytics_Fall2013.csv | head
+grep Quesiton $1 | head
