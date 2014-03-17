@@ -1,1 +1,1 @@
-grep Quesiton $1 | head
+grep Quesiton $1 | head > output.txt
